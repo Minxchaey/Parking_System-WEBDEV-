@@ -1,0 +1,224 @@
+[
+    {
+        "Park_A": [
+            {
+                "space": "1",
+                "p_type": "SP",
+                "row": "1",
+                "col": "1",
+                "occupied": "yes"
+            },
+            {
+                "space": "2",
+                "p_type": "MP",
+                "row": "1",
+                "col": "2",
+                "occupied": "yes"
+            },
+            {
+                "space": "3",
+                "p_type": "SP",
+                "row": "1",
+                "col": "3",
+                "occupied": "none"
+            },
+            {
+                "space": "4",
+                "p_type": "MP",
+                "row": "1",
+                "col": "4",
+                "occupied": "none"
+            },
+            {
+                "space": "5",
+                "p_type": "SP",
+                "row": "1",
+                "col": "5",
+                "occupied": "none"
+            },
+            {
+                "space": "6",
+                "p_type": "MP",
+                "row": "1",
+                "col": "6",
+                "occupied": "none"
+            },
+            {
+                "space": "7",
+                "p_type": "MP",
+                "row": "1",
+                "col": "7",
+                "occupied": "none"
+            },
+            {
+                "space": "8",
+                "p_type": "LP",
+                "row": "1",
+                "col": "8",
+                "occupied": "none"
+            },
+            {
+                "space": "9",
+                "p_type": "LP",
+                "row": "1",
+                "col": "9",
+                "occupied": "none"
+            },
+            {
+                "space": "10",
+                "p_type": "LP",
+                "row": "1",
+                "col": "10",
+                "occupied": "none"
+            }
+        ]
+    },
+    {
+        "Park_B": [
+            {
+                "space": "1",
+                "p_type": "SP",
+                "row": "2",
+                "col": "1",
+                "occupied": "none"
+            },
+            {
+                "space": "2",
+                "p_type": "MP",
+                "row": "2",
+                "col": "2",
+                "occupied": "none"
+            },
+            {
+                "space": "3",
+                "p_type": "LP",
+                "row": "2",
+                "col": "3",
+                "occupied": "none"
+            },
+            {
+                "space": "4",
+                "p_type": "SP",
+                "row": "2",
+                "col": "4",
+                "occupied": "none"
+            },
+            {
+                "space": "5",
+                "p_type": "MP",
+                "row": "2",
+                "col": "5",
+                "occupied": "none"
+            },
+            {
+                "space": "6",
+                "p_type": "SP",
+                "row": "2",
+                "col": "6",
+                "occupied": "none"
+            },
+            {
+                "space": "7",
+                "p_type": "MP",
+                "row": "2",
+                "col": "7",
+                "occupied": "none"
+            },
+            {
+                "space": "8",
+                "p_type": "MP",
+                "row": "2",
+                "col": "8",
+                "occupied": "none"
+            },
+            {
+                "space": "9",
+                "p_type": "LP",
+                "row": "2",
+                "col": "9",
+                "occupied": "none"
+            },
+            {
+                "space": "10",
+                "p_type": "LP",
+                "row": "2",
+                "col": "10",
+                "occupied": "none"
+            }
+        ]
+    },
+    {
+        "Park_C": [
+            {
+                "space": "1",
+                "p_type": "MP",
+                "row": "3",
+                "col": "1",
+                "occupied": "none"
+            },
+            {
+                "space": "2",
+                "p_type": "LP",
+                "row": "3",
+                "col": "2",
+                "occupied": "none"
+            },
+            {
+                "space": "3",
+                "p_type": "MP",
+                "row": "3",
+                "col": "3",
+                "occupied": "none"
+            },
+            {
+                "space": "4",
+                "p_type": "LP",
+                "row": "3",
+                "col": "4",
+                "occupied": "none"
+            },
+            {
+                "space": "5",
+                "p_type": "MP",
+                "row": "3",
+                "col": "5",
+                "occupied": "none"
+            },
+            {
+                "space": "6",
+                "p_type": "MP",
+                "row": "3",
+                "col": "6",
+                "occupied": "none"
+            },
+            {
+                "space": "7",
+                "p_type": "MP",
+                "row": "3",
+                "col": "7",
+                "occupied": "none"
+            },
+            {
+                "space": "8",
+                "p_type": "LP",
+                "row": "3",
+                "col": "8",
+                "occupied": "none"
+            },
+            {
+                "space": "9",
+                "p_type": "LP",
+                "row": "3",
+                "col": "9",
+                "occupied": "none"
+            },
+            {
+                "space": "10",
+                "p_type": "LP",
+                "row": "3",
+                "col": "10",
+                "occupied": "none"
+            }
+        ]
+    }
+]
